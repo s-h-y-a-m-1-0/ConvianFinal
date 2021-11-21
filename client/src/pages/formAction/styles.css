@@ -1,0 +1,24 @@
+.container {
+  margin-top: 30px;
+  width: 100%;
+
+  justify-content: center;
+}
+.welcomeText {
+  font-size: 40px;
+  margin-left: 15px;
+  margin-bottom: -0px;
+
+  font-family: "Poppins", cursive;
+}
+.label {
+  margin-left: 10px;
+  font-size: 20px;
+  font-family: "Poppins";
+}
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  justify-content: space-between;
+}

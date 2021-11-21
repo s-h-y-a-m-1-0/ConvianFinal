@@ -1,0 +1,13 @@
+.container {
+  margin-top: 30px;
+  width: 100%;
+
+  justify-content: center;
+}
+.welcomeText {
+  font-size: 40px;
+  margin-left: 15px;
+  margin-bottom: -0px;
+
+  font-family: "Poppins", cursive;
+}

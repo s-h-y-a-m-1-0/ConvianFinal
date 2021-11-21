@@ -1,0 +1,22 @@
+.container {
+  width: 32%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.container:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 25px 35px;
+}
+
+.bodyContainer {
+  margin-top: 10px;
+}
+
+.statusText {
+  margin-left: 8px;
+}
+.statusTextColored {
+  font-weight: 800;
+  color: green;
+}

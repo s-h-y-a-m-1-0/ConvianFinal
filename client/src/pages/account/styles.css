@@ -1,0 +1,8 @@
+.profileAvatarAccount {
+  width: 150px;
+  height: 150px;
+  margin: 25px;
+
+  align-self: center;
+  border-radius: 50%;
+}
